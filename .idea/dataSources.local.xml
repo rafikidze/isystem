@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - tour@localhost" uuid="1eb2e134-bff9-4e05-802d-8c0f86c32f1c">
+      <secret-storage>master_key</secret-storage>
+      <user-name>tour</user-name>
+      <schema-pattern>tour.pg_catalog tour.public</schema-pattern>
+      <default-schemas>tour.pg_catalog tour.public</default-schemas>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="commons-cli-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/commons-codec-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/fluent-hc-4.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/httpclient-4.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/httpclient-cache-4.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/httpcore-4.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/httpmime-4.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/jgoodies-looks-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/junit-4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TravelTickets/libs/postgresql-9.3-1101.jdbc41.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

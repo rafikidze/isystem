@@ -1,0 +1,2298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ae6e5e4-0094-4f49-bce4-a7601520f341" name="Default" comment="" />
+    <ignored path="FootballTickets.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="PostgreSQL - tour@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="tour.public" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="PostgreSQL - tour@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="tour.public" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="ticket" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="PostgreSQL - tour@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties converted="true" />
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="FootballTickets" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DBProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/DBProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="7240" max-vertical-offset="8126">
+              <caret line="409" column="26" selection-start-line="409" selection-start-column="26" selection-end-line="409" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1430071001757" expanded="true" signature="1323:1392" placeholder="INSERT INTO ..." />
+                <marker date="1430071001757" expanded="true" signature="2043:2085" placeholder="SELECT login..user..." />
+                <marker date="1430071001757" expanded="true" signature="2565:2636" placeholder="SELECT is_ad..user..." />
+                <marker date="1430071001757" expanded="true" signature="3338:3382" placeholder="SELECT count..country..." />
+                <marker date="1430071001757" expanded="true" signature="4028:4090" placeholder="SELECT resor..resort..." />
+                <marker date="1430071001757" expanded="true" signature="4703:4738" placeholder="SELECT meal_..meal..." />
+                <marker date="1430071001757" expanded="true" signature="5411:5771" placeholder="SELECT tour...tour..." />
+                <marker date="1430071001757" expanded="true" signature="7492:7536" placeholder="SELECT meal_..meal..." />
+                <marker date="1430071001757" expanded="true" signature="8049:8114" placeholder="SELECT hotel..hotel..." />
+                <marker date="1430071001757" expanded="true" signature="8857:8919" placeholder="SELECT resor..resort..." />
+                <marker date="1430071001757" expanded="true" signature="9633:9686" placeholder="SELECT count..country..." />
+                <marker date="1430071001757" expanded="true" signature="10211:10353" placeholder="SELECT tour_..tour..." />
+                <marker date="1430071001757" expanded="true" signature="11276:11340" placeholder="SELECT login..user..." />
+                <marker date="1430071001757" expanded="true" signature="12041:12094" placeholder="SELECT payme..payment..." />
+                <marker date="1430071001757" expanded="true" signature="12721:12796" placeholder="SELECT ticke..ticket..." />
+                <marker date="1430071001757" expanded="true" signature="13716:13801" placeholder="SELECT ticke..ticket..." />
+                <marker date="1430071001757" expanded="true" signature="14702:14762" placeholder="INSERT INTO ..." />
+                <marker date="1430071001757" expanded="true" signature="15200:15248" placeholder="UPDATE ticke..." />
+                <marker date="1430071001757" expanded="true" signature="15654:15706" placeholder="UPDATE ticke..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProgrammTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/ProgrammTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.73712736" vertical-offset="0" max-vertical-offset="595">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/traveltickets.blogic.Meal" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/traveltickets.blogic.Meal">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>traveltickets.blogic.Meal</OriginalElement>
+              <nodes>
+                <node x="654.0747280377669" y="830.0">traveltickets.httplayer.HttpServer</node>
+                <node x="206.39615660919546" y="240.0">traveltickets.blogic.Tour</node>
+                <node x="63.770576765188935" y="470.0">traveltickets.datalayer.DBProcessor</node>
+                <node x="50.50032327586206" y="80.0">traveltickets.blogic.Resort</node>
+                <node x="123.751683087028" y="350.0">traveltickets.blogic.Tickets</node>
+                <node x="617.8429009257826" y="-1.8860510805500965">traveltickets.utils.ModalDialog</node>
+                <node x="439.0937500000001" y="830.0">LoginWindow</node>
+                <node x="220.0747280377669" y="650.0">SelectTour</node>
+                <node x="274.8333333333334" y="560.0">TourWindow</node>
+                <node x="330.07472803776693" y="650.0">InformationWindow</node>
+                <node x="45.50032327586206" y="0.0">traveltickets.blogic.Country</node>
+                <node x="52.50032327586206" y="160.0">traveltickets.blogic.Hotel</node>
+                <node x="214.751683087028" y="350.0">traveltickets.utils.JSONBuilder</node>
+                <node x="220.64615660919546" y="160.0">traveltickets.blogic.Meal</node>
+                <node x="647.0747280377669" y="750.0">traveltickets.httplayer.ClientSession</node>
+                <node x="503.07472803776693" y="650.0">TicketsWindow</node>
+                <node x="428.0583333333334" y="240.0">traveltickets.blogic.User</node>
+                <node x="411.8750000000001" y="750.0">MainWindow</node>
+                <node x="77.125" y="240.0">traveltickets.blogic.Payment</node>
+                <node x="570.032933087028" y="910.0">TravelTickets</node>
+                <node x="334.751683087028" y="350.0">ProgrammTest</node>
+                <node x="437.251683087028" y="470.0">traveltickets.servicelayer.LoginServ</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="MainWindow" target="TourWindow">
+                  <point x="6.5625" y="-15.0" />
+                  <point x="470.9375000000001" y="700.0" />
+                  <point x="481.57472803776693" y="700.0" />
+                  <point x="481.57472803776693" y="630.0" />
+                  <point x="360.6666666666668" y="630.0" />
+                  <point x="34.33333333333337" y="15.0" />
+                </edge>
+                <edge source="traveltickets.blogic.Hotel" target="traveltickets.blogic.Resort">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Meal">
+                  <point x="12.285714285714278" y="-15.0" />
+                  <point x="492.53739737274225" y="430.0" />
+                  <point x="518.1119047619048" y="430.0" />
+                  <point x="518.1119047619048" y="220.0" />
+                  <point x="270.6461566091955" y="220.0" />
+                  <point x="20.0" y="15.0" />
+                </edge>
+                <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.User">
+                  <point x="-12.285714285714278" y="-15.0" />
+                  <point x="467.9659688013137" y="410.0" />
+                  <point x="493.5119047619048" y="410.0" />
+                  <point x="493.5119047619048" y="330.0" />
+                  <point x="467.9583333333334" y="330.0" />
+                  <point x="11.400000000000006" y="15.0" />
+                </edge>
+                <edge source="MainWindow" target="LoginWindow">
+                  <point x="26.25" y="15.0" />
+                  <point x="490.6250000000001" y="810.0" />
+                  <point x="506.5937500000001" y="810.0" />
+                  <point x="13.5" y="-15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Tickets">
+                  <point x="31.25" y="-15.0" />
+                  <point x="145.02057676518893" y="450.0" />
+                  <point x="141.501683087028" y="450.0" />
+                  <point x="-17.75" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Country">
+                  <point x="-43.75" y="-15.0" />
+                  <point x="70.02057676518893" y="450.0" />
+                  <point x="26.0" y="450.0" />
+                  <point x="26.0" y="55.0" />
+                  <point x="58.33365660919537" y="55.0" />
+                  <point x="-25.666666666666686" y="15.0" />
+                </edge>
+                <edge source="SelectTour" target="traveltickets.servicelayer.LoginServ">
+                  <point x="-30.0" y="-15.0" />
+                  <point x="235.0747280377669" y="610.0" />
+                  <point x="264.3333333333334" y="610.0" />
+                  <point x="264.3333333333334" y="530.0" />
+                  <point x="458.751683087028" y="530.0" />
+                  <point x="-21.5" y="15.0" />
+                </edge>
+                <edge source="ProgrammTest" target="traveltickets.blogic.User">
+                  <point x="0.0" y="-15.0" />
+                  <point x="391.251683087028" y="330.0" />
+                  <point x="445.1583333333334" y="330.0" />
+                  <point x="-11.400000000000006" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Payment">
+                  <point x="6.25" y="-15.0" />
+                  <point x="120.02057676518893" y="410.0" />
+                  <point x="100.95833333333337" y="410.0" />
+                  <point x="100.95833333333337" y="330.0" />
+                  <point x="97.375" y="330.0" />
+                  <point x="-20.25" y="15.0" />
+                </edge>
+                <edge source="traveltickets.blogic.Tour" target="traveltickets.blogic.Meal">
+                  <point x="14.75" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Tour">
+                  <point x="-24.571428571428555" y="-15.0" />
+                  <point x="455.6802545155995" y="430.0" />
+                  <point x="324.251683087028" y="430.0" />
+                  <point x="324.251683087028" y="300.0" />
+                  <point x="258.0211566091955" y="300.0" />
+                  <point x="22.125" y="15.0" />
+                </edge>
+                <edge source="LoginWindow" target="traveltickets.servicelayer.LoginServ">
+                  <point x="-40.5" y="-15.0" />
+                  <point x="452.5937500000001" y="810.0" />
+                  <point x="209.5747280377669" y="810.0" />
+                  <point x="209.5747280377669" y="520.0" />
+                  <point x="444.41834975369466" y="520.0" />
+                  <point x="-35.833333333333314" y="15.0" />
+                </edge>
+                <edge source="MainWindow" target="InformationWindow">
+                  <point x="-19.6875" y="-15.0" />
+                  <point x="444.6875000000001" y="710.0" />
+                  <point x="365.32472803776693" y="710.0" />
+                  <point x="-35.25" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Resort">
+                  <point x="-31.25" y="-15.0" />
+                  <point x="82.52057676518893" y="440.0" />
+                  <point x="37.0" y="440.0" />
+                  <point x="37.0" y="135.0" />
+                  <point x="61.666989942528744" y="135.0" />
+                  <point x="-22.333333333333314" y="15.0" />
+                </edge>
+                <edge source="LoginWindow" target="MainWindow">
+                  <point x="-13.5" y="-15.0" />
+                  <point x="479.5937500000001" y="800.0" />
+                  <point x="438.1250000000001" y="800.0" />
+                  <point x="-26.25" y="15.0" />
+                </edge>
+                <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Tickets">
+                  <point x="-36.85714285714289" y="-15.0" />
+                  <point x="443.39454022988514" y="440.0" />
+                  <point x="177.001683087028" y="440.0" />
+                  <point x="17.75" y="15.0" />
+                </edge>
+                <edge source="traveltickets.httplayer.HttpServer" target="traveltickets.httplayer.ClientSession">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="traveltickets.blogic.Resort" target="traveltickets.blogic.Country">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="TicketsWindow" target="MainWindow">
+                  <point x="28.75" y="15.0" />
+                  <point x="589.3247280377669" y="730.0" />
+                  <point x="510.3125000000001" y="730.0" />
+                  <point x="45.9375" y="-15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.User">
+                  <point x="43.75" y="-15.0" />
+                  <point x="157.52057676518893" y="450.0" />
+                  <point x="458.251683087028" y="450.0" />
+                  <point x="458.251683087028" y="330.0" />
+                  <point x="456.5583333333334" y="330.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Tour">
+                  <point x="18.75" y="-15.0" />
+                  <point x="132.52057676518893" y="400.0" />
+                  <point x="113.251683087028" y="400.0" />
+                  <point x="113.251683087028" y="300.0" />
+                  <point x="213.77115660919546" y="300.0" />
+                  <point x="-22.125" y="15.0" />
+                </edge>
+                <edge source="TravelTickets" target="LoginWindow">
+                  <point x="-25.75" y="-15.0" />
+                  <point x="595.782933087028" y="885.0" />
+                  <point x="493.0937500000001" y="885.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="MainWindow" target="traveltickets.servicelayer.LoginServ">
+                  <point x="19.6875" y="-15.0" />
+                  <point x="484.0625000000001" y="710.0" />
+                  <point x="492.57472803776693" y="710.0" />
+                  <point x="492.57472803776693" y="540.0" />
+                  <point x="487.41834975369466" y="540.0" />
+                  <point x="7.166666666666686" y="15.0" />
+                </edge>
+                <edge source="traveltickets.blogic.Tickets" target="traveltickets.blogic.Payment">
+                  <point x="-23.666666666666686" y="-15.0" />
+                  <point x="135.5850164203613" y="290.0" />
+                  <point x="137.875" y="290.0" />
+                  <point x="20.25" y="15.0" />
+                </edge>
+                <edge source="TourWindow" target="traveltickets.servicelayer.LoginServ">
+                  <point x="0.0" y="-15.0" />
+                  <point x="326.3333333333334" y="540.0" />
+                  <point x="473.0850164203613" y="540.0" />
+                  <point x="-7.166666666666686" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Hotel">
+                  <point x="-18.75" y="-15.0" />
+                  <point x="95.02057676518893" y="430.0" />
+                  <point x="55.625" y="430.0" />
+                  <point x="55.625" y="210.0" />
+                  <point x="68.25032327586206" y="210.0" />
+                  <point x="-15.75" y="15.0" />
+                </edge>
+                <edge source="MainWindow" target="TicketsWindow">
+                  <point x="32.8125" y="-15.0" />
+                  <point x="497.1875000000001" y="720.0" />
+                  <point x="531.8247280377669" y="720.0" />
+                  <point x="-28.75" y="15.0" />
+                </edge>
+                <edge source="TravelTickets" target="traveltickets.httplayer.HttpServer">
+                  <point x="25.75" y="-15.0" />
+                  <point x="647.282933087028" y="885.0" />
+                  <point x="699.0747280377669" y="885.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Resort">
+                  <point x="24.571428571428555" y="-15.0" />
+                  <point x="504.8231116584566" y="440.0" />
+                  <point x="533.8619047619048" y="440.0" />
+                  <point x="533.8619047619048" y="135.0" />
+                  <point x="106.33365660919537" y="135.0" />
+                  <point x="22.333333333333314" y="15.0" />
+                </edge>
+                <edge source="traveltickets.blogic.Tickets" target="traveltickets.blogic.User">
+                  <point x="23.666666666666657" y="-15.0" />
+                  <point x="182.91834975369466" y="320.0" />
+                  <point x="433.75833333333344" y="320.0" />
+                  <point x="-22.799999999999997" y="15.0" />
+                </edge>
+                <edge source="SelectTour" target="MainWindow">
+                  <point x="22.5" y="15.0" />
+                  <point x="287.57472803776693" y="720.0" />
+                  <point x="431.5625000000001" y="720.0" />
+                  <point x="-32.8125" y="-15.0" />
+                </edge>
+                <edge source="TourWindow" target="SelectTour">
+                  <point x="0.0" y="15.0" />
+                  <point x="326.3333333333334" y="630.0" />
+                  <point x="295.07472803776693" y="630.0" />
+                  <point x="30.0" y="-15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Meal">
+                  <point x="-6.25" y="-15.0" />
+                  <point x="107.52057676518893" y="420.0" />
+                  <point x="66.625" y="420.0" />
+                  <point x="66.625" y="220.0" />
+                  <point x="230.64615660919546" y="220.0" />
+                  <point x="-20.0" y="15.0" />
+                </edge>
+                <edge source="TicketsWindow" target="traveltickets.servicelayer.LoginServ">
+                  <point x="0.0" y="-15.0" />
+                  <point x="560.5747280377669" y="540.0" />
+                  <point x="501.751683087028" y="540.0" />
+                  <point x="21.5" y="15.0" />
+                </edge>
+                <edge source="traveltickets.blogic.Tour" target="traveltickets.blogic.Hotel">
+                  <point x="-14.75" y="-15.0" />
+                  <point x="221.14615660919546" y="210.0" />
+                  <point x="99.75032327586206" y="210.0" />
+                  <point x="15.75" y="15.0" />
+                </edge>
+                <edge source="traveltickets.blogic.Tickets" target="traveltickets.blogic.Tour">
+                  <point x="0.0" y="-15.0" />
+                  <point x="159.251683087028" y="310.0" />
+                  <point x="228.52115660919546" y="310.0" />
+                  <point x="-7.375" y="15.0" />
+                </edge>
+                <edge source="MainWindow" target="SelectTour">
+                  <point x="-45.9375" y="-15.0" />
+                  <point x="418.4375000000001" y="730.0" />
+                  <point x="242.5747280377669" y="730.0" />
+                  <point x="-22.5" y="15.0" />
+                </edge>
+                <edge source="traveltickets.utils.JSONBuilder" target="traveltickets.blogic.Tour">
+                  <point x="0.0" y="-15.0" />
+                  <point x="264.251683087028" y="310.0" />
+                  <point x="243.27115660919546" y="310.0" />
+                  <point x="7.375" y="15.0" />
+                </edge>
+                <edge source="SelectTour" target="TourWindow">
+                  <point x="0.0" y="-15.0" />
+                  <point x="265.07472803776693" y="620.0" />
+                  <point x="292.0000000000001" y="620.0" />
+                  <point x="-34.333333333333314" y="15.0" />
+                </edge>
+                <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Country">
+                  <point x="36.85714285714289" y="-15.0" />
+                  <point x="517.1088259441709" y="450.0" />
+                  <point x="550.1952380952382" y="450.0" />
+                  <point x="550.1952380952382" y="55.0" />
+                  <point x="109.66698994252874" y="55.0" />
+                  <point x="25.666666666666686" y="15.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0604166666666666" x="203.3261296660118" y="677.3261296660119" />
+              <SelectedNodes />
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientSession.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/ClientSession.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1904">
+              <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/HttpServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/JSONBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModalDialog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/ModalDialog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Country.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Country.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="391">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tour.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Tour.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="748">
+              <caret line="40" column="76" selection-start-line="40" selection-start-column="76" selection-end-line="40" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="595">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FootballTickets/tickets/src/BLogic/SearchAssistant.java" />
+        <option value="$PROJECT_DIR$/FootballTickets/tickets/src/DataLayer/DBProcessor.java" />
+        <option value="$PROJECT_DIR$/FootballTickets/tickets/src/TravelTickets.java" />
+        <option value="$PROJECT_DIR$/FootballTickets/tickets/src/ServiceLayer/LoginServ.java" />
+        <option value="$PROJECT_DIR$/FootballTickets/tickets/src/Utils/JSONBuilder.java" />
+        <option value="$PROJECT_DIR$/FootballTickets/tickets/src/LoginWindow.java" />
+        <option value="$PROJECT_DIR$/FootballTickets/tickets/src/LoginWindow.jfd" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/InformationWindow.jfd" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/TourWindow.jfd" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/SelectTour.jfd" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/HttpLayer/HttpServer.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/HttpLayer/ClientSession.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/ProgrammTest.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/Utils/JSONBuilder.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/LoginWindow.jfd" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/MainWindow.jfd" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/RecomendWindow.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/RecomendTourWindow.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/ServiceLayer/LoginServ.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/BLogic/Country.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/BLogic/Hotel.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/BLogic/Meal.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/BLogic/Resort.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/BLogic/Tour.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/BLogic/Tickets.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/BLogic/User.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/DataLayer/DBProcessor.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/datalayer/DBProcessor.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/utils/JSONBuilder.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Country.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Hotel.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Meal.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Resort.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Tour.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/JSONBuilder.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/ModalDialog.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/MainWindow.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/SelectTour.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/TourWindow.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/LoginWindow.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/User.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/ClientSession.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/HttpServer.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/InformationWindow.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/TravelTickets.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/TicketsWindow.jfd" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Payment.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Tickets.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/TicketsWindow.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/LoginServ.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/DBProcessor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1552" />
+    <option name="height" value="842" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrevellTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrevellTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets — original" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrevellTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets — original" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrevellTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets — original" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrevellTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets — original" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="traveltickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrevellTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets — original" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="traveltickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servicelayer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrevellTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets — original" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="traveltickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="httplayer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrevellTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets — original" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="traveltickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datalayer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrevellTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets — original" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="traveltickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blogic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrevellTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets — original" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/FootballTickets/libs" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\otopba\Downloads\traveltickets\TravelTickets\TravelTickets\tickets\src" />
+      <recent name="D:\FootballTickets\TravelTickets\tickets\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.server">
+    <configuration default="false" name="test" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="TravelTickets" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="server" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TravelTickets" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TravelTickets" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.server" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.test" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.test" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration>C:\Users\otopba\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ae6e5e4-0094-4f49-bce4-a7601520f341" name="Default" comment="" />
+      <created>1415117953962</created>
+      <option name="number" value="Default" />
+      <updated>1415117953962</updated>
+      <workItem from="1415117954421" duration="774000" />
+      <workItem from="1415531296160" duration="54000" />
+      <workItem from="1417994057434" duration="2301000" />
+      <workItem from="1417996379268" duration="3290000" />
+      <workItem from="1418071513687" duration="132000" />
+      <workItem from="1418512880185" duration="773000" />
+      <workItem from="1418514852051" duration="19759000" />
+      <workItem from="1423205944842" duration="827000" />
+      <workItem from="1423221864997" duration="50000" />
+      <workItem from="1423317238505" duration="618000" />
+      <workItem from="1423561973350" duration="5214000" />
+      <workItem from="1428508252493" duration="2304000" />
+      <workItem from="1428510710419" duration="7010000" />
+      <workItem from="1428591019860" duration="1064000" />
+      <workItem from="1429563634058" duration="599000" />
+      <workItem from="1430045958498" duration="5898000" />
+      <workItem from="1430057964408" duration="32000" />
+      <workItem from="1430070568681" duration="296000" />
+      <workItem from="1430070892124" duration="757000" />
+      <workItem from="1430126130891" duration="4565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56317000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1552" height="842" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32742155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45839018" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45839018" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24414062" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16400427" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35784313" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="IntelliGuard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/TravelTickets" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/LoginServ.java</url>
+          <line>176</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/TourWindow.jfd" />
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/TourWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/LoginWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/LoginWindow.jfd" />
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/JSONBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/LoginWindow.jfd" />
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/TravelTickets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/LoginWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="195" column="54" selection-start-line="195" selection-start-column="54" selection-end-line="195" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/LoginServ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/DBProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="75" column="40" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1430071001757" expanded="true" signature="1323:1392" placeholder="INSERT INTO ..." />
+            <marker date="1430071001757" expanded="true" signature="2043:2085" placeholder="SELECT login..user..." />
+            <marker date="1430071001757" expanded="true" signature="2565:2636" placeholder="SELECT is_ad..user..." />
+            <marker date="1430071001757" expanded="true" signature="3338:3382" placeholder="SELECT count..country..." />
+            <marker date="1430071001757" expanded="true" signature="4028:4090" placeholder="SELECT resor..resort..." />
+            <marker date="1430071001757" expanded="true" signature="4703:4738" placeholder="SELECT meal_..meal..." />
+            <marker date="1430071001757" expanded="true" signature="5411:5771" placeholder="SELECT tour...tour..." />
+            <marker date="1430071001757" expanded="true" signature="7492:7536" placeholder="SELECT meal_..meal..." />
+            <marker date="1430071001757" expanded="true" signature="8049:8114" placeholder="SELECT hotel..hotel..." />
+            <marker date="1430071001757" expanded="true" signature="8857:8919" placeholder="SELECT resor..resort..." />
+            <marker date="1430071001757" expanded="true" signature="9633:9686" placeholder="SELECT count..country..." />
+            <marker date="1430071001757" expanded="true" signature="10211:10353" placeholder="SELECT tour_..tour..." />
+            <marker date="1430071001757" expanded="true" signature="11276:11340" placeholder="SELECT login..user..." />
+            <marker date="1430071001757" expanded="true" signature="12041:12094" placeholder="SELECT payme..payment..." />
+            <marker date="1430071001757" expanded="true" signature="12721:12796" placeholder="SELECT ticke..ticket..." />
+            <marker date="1430071001757" expanded="true" signature="13716:13801" placeholder="SELECT ticke..ticket..." />
+            <marker date="1430071001757" expanded="true" signature="14702:14762" placeholder="INSERT INTO ..." />
+            <marker date="1430071001757" expanded="true" signature="15200:15248" placeholder="UPDATE ticke..." />
+            <marker date="1430071001757" expanded="true" signature="15654:15706" placeholder="UPDATE ticke..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/JSONBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/LoginWindow.jfd" />
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/TravelTickets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/LoginWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="195" column="54" selection-start-line="195" selection-start-column="54" selection-end-line="195" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/LoginServ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/JSONBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="32" column="73" selection-start-line="29" selection-start-column="13" selection-end-line="32" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/ProgrammTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="2" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/DBProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="747" column="0" selection-start-line="426" selection-start-column="4" selection-end-line="747" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1430071001757" expanded="true" signature="1323:1392" placeholder="INSERT INTO ..." />
+            <marker date="1430071001757" expanded="true" signature="2043:2085" placeholder="SELECT login..user..." />
+            <marker date="1430071001757" expanded="true" signature="2565:2636" placeholder="SELECT is_ad..user..." />
+            <marker date="1430071001757" expanded="true" signature="3338:3382" placeholder="SELECT count..country..." />
+            <marker date="1430071001757" expanded="true" signature="4028:4090" placeholder="SELECT resor..resort..." />
+            <marker date="1430071001757" expanded="true" signature="4703:4738" placeholder="SELECT meal_..meal..." />
+            <marker date="1430071001757" expanded="true" signature="5411:5771" placeholder="SELECT tour...tour..." />
+            <marker date="1430071001757" expanded="true" signature="7492:7536" placeholder="SELECT meal_..meal..." />
+            <marker date="1430071001757" expanded="true" signature="8049:8114" placeholder="SELECT hotel..hotel..." />
+            <marker date="1430071001757" expanded="true" signature="8857:8919" placeholder="SELECT resor..resort..." />
+            <marker date="1430071001757" expanded="true" signature="9633:9686" placeholder="SELECT count..country..." />
+            <marker date="1430071001757" expanded="true" signature="10211:10353" placeholder="SELECT tour_..tour..." />
+            <marker date="1430071001757" expanded="true" signature="11276:11340" placeholder="SELECT login..user..." />
+            <marker date="1430071001757" expanded="true" signature="12041:12094" placeholder="SELECT payme..payment..." />
+            <marker date="1430071001757" expanded="true" signature="12721:12796" placeholder="SELECT ticke..ticket..." />
+            <marker date="1430071001757" expanded="true" signature="13716:13801" placeholder="SELECT ticke..ticket..." />
+            <marker date="1430071001757" expanded="true" signature="14702:14762" placeholder="INSERT INTO ..." />
+            <marker date="1430071001757" expanded="true" signature="15200:15248" placeholder="UPDATE ticke..." />
+            <marker date="1430071001757" expanded="true" signature="15654:15706" placeholder="UPDATE ticke..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/SelectTour.jfd" />
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/TourWindow.jfd" />
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/LoginWindow.jfd" />
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/InformationWindow.jfd" />
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/MainWindow.jfd" />
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Hotel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/SelectTour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/TravelTickets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/LoginWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/InformationWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/TicketsWindow.jfd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1734">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/TourWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/TicketsWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="35" />
+          <folding>
+            <element signature="method#initComponents#0;class#TicketsWindow#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/LoginServ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3621">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Tickets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Resort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11" max-vertical-offset="476">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Tour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="40" column="76" selection-start-line="40" selection-start-column="76" selection-end-line="40" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/DBProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7240" max-vertical-offset="8126">
+          <caret line="409" column="26" selection-start-line="409" selection-start-column="26" selection-end-line="409" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1430071001757" expanded="true" signature="1323:1392" placeholder="INSERT INTO ..." />
+            <marker date="1430071001757" expanded="true" signature="2043:2085" placeholder="SELECT login..user..." />
+            <marker date="1430071001757" expanded="true" signature="2565:2636" placeholder="SELECT is_ad..user..." />
+            <marker date="1430071001757" expanded="true" signature="3338:3382" placeholder="SELECT count..country..." />
+            <marker date="1430071001757" expanded="true" signature="4028:4090" placeholder="SELECT resor..resort..." />
+            <marker date="1430071001757" expanded="true" signature="4703:4738" placeholder="SELECT meal_..meal..." />
+            <marker date="1430071001757" expanded="true" signature="5411:5771" placeholder="SELECT tour...tour..." />
+            <marker date="1430071001757" expanded="true" signature="7492:7536" placeholder="SELECT meal_..meal..." />
+            <marker date="1430071001757" expanded="true" signature="8049:8114" placeholder="SELECT hotel..hotel..." />
+            <marker date="1430071001757" expanded="true" signature="8857:8919" placeholder="SELECT resor..resort..." />
+            <marker date="1430071001757" expanded="true" signature="9633:9686" placeholder="SELECT count..country..." />
+            <marker date="1430071001757" expanded="true" signature="10211:10353" placeholder="SELECT tour_..tour..." />
+            <marker date="1430071001757" expanded="true" signature="11276:11340" placeholder="SELECT login..user..." />
+            <marker date="1430071001757" expanded="true" signature="12041:12094" placeholder="SELECT payme..payment..." />
+            <marker date="1430071001757" expanded="true" signature="12721:12796" placeholder="SELECT ticke..ticket..." />
+            <marker date="1430071001757" expanded="true" signature="13716:13801" placeholder="SELECT ticke..ticket..." />
+            <marker date="1430071001757" expanded="true" signature="14702:14762" placeholder="INSERT INTO ..." />
+            <marker date="1430071001757" expanded="true" signature="15200:15248" placeholder="UPDATE ticke..." />
+            <marker date="1430071001757" expanded="true" signature="15654:15706" placeholder="UPDATE ticke..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/traveltickets.blogic.Country">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>traveltickets.blogic.Country</OriginalElement>
+          <nodes>
+            <node x="247.0" y="-9.0">traveltickets.httplayer.HttpServer</node>
+            <node x="-415.0" y="-78.0">traveltickets.blogic.Tour</node>
+            <node x="69.0" y="179.0">traveltickets.datalayer.DBProcessor</node>
+            <node x="-54.0" y="120.0">traveltickets.blogic.Resort</node>
+            <node x="-245.0" y="150.0">traveltickets.blogic.Tickets</node>
+            <node x="262.0" y="99.0">traveltickets.utils.ModalDialog</node>
+            <node x="-53.0" y="350.0">LoginWindow</node>
+            <node x="-430.0" y="205.0">SelectTour</node>
+            <node x="-352.0" y="125.0">TourWindow</node>
+            <node x="-343.0" y="355.0">InformationWindow</node>
+            <node x="29.0" y="80.0">traveltickets.blogic.Country</node>
+            <node x="-139.0" y="16.0">traveltickets.blogic.Hotel</node>
+            <node x="229.0" y="-75.0">traveltickets.utils.JSONBuilder</node>
+            <node x="-259.0" y="79.0">traveltickets.blogic.Meal</node>
+            <node x="416.0" y="78.0">traveltickets.httplayer.ClientSession</node>
+            <node x="-257.0" y="-116.0">TicketsWindow</node>
+            <node x="-161.0" y="-129.0">traveltickets.blogic.User</node>
+            <node x="-320.0" y="210.0">MainWindow</node>
+            <node x="-411.0" y="33.0">traveltickets.blogic.Payment</node>
+            <node x="505.0" y="195.0">TravelTickets</node>
+            <node x="32.0" y="-2.0">lombok.AllArgsConstructor</node>
+            <node x="-432.0" y="-10.0">ProgrammTest</node>
+            <node x="-232.0" y="67.0">traveltickets.servicelayer.LoginServ</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Meal">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="MainWindow" target="LoginWindow">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Tickets">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Country">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="SelectTour" target="traveltickets.servicelayer.LoginServ">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="ProgrammTest" target="traveltickets.blogic.User">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Payment">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Tour" target="traveltickets.blogic.Meal">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Tour">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="LoginWindow" target="traveltickets.servicelayer.LoginServ">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.blogic.User" target="lombok.AllArgsConstructor">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Hotel" target="lombok.AllArgsConstructor">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="LoginWindow" target="MainWindow">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Tickets">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.httplayer.HttpServer" target="traveltickets.httplayer.ClientSession">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Resort" target="traveltickets.blogic.Country">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="TicketsWindow" target="MainWindow">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Tour">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="TravelTickets" target="LoginWindow">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Tickets" target="traveltickets.blogic.Payment">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="TourWindow" target="traveltickets.servicelayer.LoginServ">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Hotel">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Tickets" target="lombok.AllArgsConstructor">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Resort">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="SelectTour" target="MainWindow">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="TourWindow" target="SelectTour">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Tour" target="traveltickets.blogic.Hotel">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="TicketsWindow" target="traveltickets.servicelayer.LoginServ">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Tickets" target="traveltickets.blogic.Tour">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="traveltickets.utils.JSONBuilder" target="traveltickets.blogic.Tour">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="67.5" y="173.0" />
+          <SelectedNodes>
+            <node>traveltickets.httplayer.HttpServer</node>
+            <node>traveltickets.blogic.Tour</node>
+            <node>traveltickets.datalayer.DBProcessor</node>
+            <node>traveltickets.blogic.Resort</node>
+            <node>traveltickets.blogic.Tickets</node>
+            <node>traveltickets.utils.ModalDialog</node>
+            <node>LoginWindow</node>
+            <node>SelectTour</node>
+            <node>TourWindow</node>
+            <node>InformationWindow</node>
+            <node>traveltickets.blogic.Country</node>
+            <node>traveltickets.blogic.Hotel</node>
+            <node>traveltickets.utils.JSONBuilder</node>
+            <node>traveltickets.blogic.Meal</node>
+            <node>traveltickets.httplayer.ClientSession</node>
+            <node>TicketsWindow</node>
+            <node>MainWindow</node>
+            <node>traveltickets.blogic.Payment</node>
+            <node>TravelTickets</node>
+            <node>lombok.AllArgsConstructor</node>
+            <node>ProgrammTest</node>
+            <node>traveltickets.servicelayer.LoginServ</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/traveltickets.blogic.Meal">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>traveltickets.blogic.Meal</OriginalElement>
+          <nodes>
+            <node x="654.0747280377669" y="830.0">traveltickets.httplayer.HttpServer</node>
+            <node x="206.39615660919546" y="240.0">traveltickets.blogic.Tour</node>
+            <node x="63.770576765188935" y="470.0">traveltickets.datalayer.DBProcessor</node>
+            <node x="50.50032327586206" y="80.0">traveltickets.blogic.Resort</node>
+            <node x="123.751683087028" y="350.0">traveltickets.blogic.Tickets</node>
+            <node x="617.8429009257826" y="-1.8860510805500965">traveltickets.utils.ModalDialog</node>
+            <node x="439.0937500000001" y="830.0">LoginWindow</node>
+            <node x="220.0747280377669" y="650.0">SelectTour</node>
+            <node x="274.8333333333334" y="560.0">TourWindow</node>
+            <node x="330.07472803776693" y="650.0">InformationWindow</node>
+            <node x="45.50032327586206" y="0.0">traveltickets.blogic.Country</node>
+            <node x="52.50032327586206" y="160.0">traveltickets.blogic.Hotel</node>
+            <node x="214.751683087028" y="350.0">traveltickets.utils.JSONBuilder</node>
+            <node x="220.64615660919546" y="160.0">traveltickets.blogic.Meal</node>
+            <node x="647.0747280377669" y="750.0">traveltickets.httplayer.ClientSession</node>
+            <node x="503.07472803776693" y="650.0">TicketsWindow</node>
+            <node x="428.0583333333334" y="240.0">traveltickets.blogic.User</node>
+            <node x="411.8750000000001" y="750.0">MainWindow</node>
+            <node x="77.125" y="240.0">traveltickets.blogic.Payment</node>
+            <node x="570.032933087028" y="910.0">TravelTickets</node>
+            <node x="334.751683087028" y="350.0">ProgrammTest</node>
+            <node x="437.251683087028" y="470.0">traveltickets.servicelayer.LoginServ</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="MainWindow" target="TourWindow">
+              <point x="6.5625" y="-15.0" />
+              <point x="470.9375000000001" y="700.0" />
+              <point x="481.57472803776693" y="700.0" />
+              <point x="481.57472803776693" y="630.0" />
+              <point x="360.6666666666668" y="630.0" />
+              <point x="34.33333333333337" y="15.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Hotel" target="traveltickets.blogic.Resort">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Meal">
+              <point x="12.285714285714278" y="-15.0" />
+              <point x="492.53739737274225" y="430.0" />
+              <point x="518.1119047619048" y="430.0" />
+              <point x="518.1119047619048" y="220.0" />
+              <point x="270.6461566091955" y="220.0" />
+              <point x="20.0" y="15.0" />
+            </edge>
+            <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.User">
+              <point x="-12.285714285714278" y="-15.0" />
+              <point x="467.9659688013137" y="410.0" />
+              <point x="493.5119047619048" y="410.0" />
+              <point x="493.5119047619048" y="330.0" />
+              <point x="467.9583333333334" y="330.0" />
+              <point x="11.400000000000006" y="15.0" />
+            </edge>
+            <edge source="MainWindow" target="LoginWindow">
+              <point x="26.25" y="15.0" />
+              <point x="490.6250000000001" y="810.0" />
+              <point x="506.5937500000001" y="810.0" />
+              <point x="13.5" y="-15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Tickets">
+              <point x="31.25" y="-15.0" />
+              <point x="145.02057676518893" y="450.0" />
+              <point x="141.501683087028" y="450.0" />
+              <point x="-17.75" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Country">
+              <point x="-43.75" y="-15.0" />
+              <point x="70.02057676518893" y="450.0" />
+              <point x="26.0" y="450.0" />
+              <point x="26.0" y="55.0" />
+              <point x="58.33365660919537" y="55.0" />
+              <point x="-25.666666666666686" y="15.0" />
+            </edge>
+            <edge source="SelectTour" target="traveltickets.servicelayer.LoginServ">
+              <point x="-30.0" y="-15.0" />
+              <point x="235.0747280377669" y="610.0" />
+              <point x="264.3333333333334" y="610.0" />
+              <point x="264.3333333333334" y="530.0" />
+              <point x="458.751683087028" y="530.0" />
+              <point x="-21.5" y="15.0" />
+            </edge>
+            <edge source="ProgrammTest" target="traveltickets.blogic.User">
+              <point x="0.0" y="-15.0" />
+              <point x="391.251683087028" y="330.0" />
+              <point x="445.1583333333334" y="330.0" />
+              <point x="-11.400000000000006" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Payment">
+              <point x="6.25" y="-15.0" />
+              <point x="120.02057676518893" y="410.0" />
+              <point x="100.95833333333337" y="410.0" />
+              <point x="100.95833333333337" y="330.0" />
+              <point x="97.375" y="330.0" />
+              <point x="-20.25" y="15.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Tour" target="traveltickets.blogic.Meal">
+              <point x="14.75" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Tour">
+              <point x="-24.571428571428555" y="-15.0" />
+              <point x="455.6802545155995" y="430.0" />
+              <point x="324.251683087028" y="430.0" />
+              <point x="324.251683087028" y="300.0" />
+              <point x="258.0211566091955" y="300.0" />
+              <point x="22.125" y="15.0" />
+            </edge>
+            <edge source="LoginWindow" target="traveltickets.servicelayer.LoginServ">
+              <point x="-40.5" y="-15.0" />
+              <point x="452.5937500000001" y="810.0" />
+              <point x="209.5747280377669" y="810.0" />
+              <point x="209.5747280377669" y="520.0" />
+              <point x="444.41834975369466" y="520.0" />
+              <point x="-35.833333333333314" y="15.0" />
+            </edge>
+            <edge source="MainWindow" target="InformationWindow">
+              <point x="-19.6875" y="-15.0" />
+              <point x="444.6875000000001" y="710.0" />
+              <point x="365.32472803776693" y="710.0" />
+              <point x="-35.25" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Resort">
+              <point x="-31.25" y="-15.0" />
+              <point x="82.52057676518893" y="440.0" />
+              <point x="37.0" y="440.0" />
+              <point x="37.0" y="135.0" />
+              <point x="61.666989942528744" y="135.0" />
+              <point x="-22.333333333333314" y="15.0" />
+            </edge>
+            <edge source="LoginWindow" target="MainWindow">
+              <point x="-13.5" y="-15.0" />
+              <point x="479.5937500000001" y="800.0" />
+              <point x="438.1250000000001" y="800.0" />
+              <point x="-26.25" y="15.0" />
+            </edge>
+            <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Tickets">
+              <point x="-36.85714285714289" y="-15.0" />
+              <point x="443.39454022988514" y="440.0" />
+              <point x="177.001683087028" y="440.0" />
+              <point x="17.75" y="15.0" />
+            </edge>
+            <edge source="traveltickets.httplayer.HttpServer" target="traveltickets.httplayer.ClientSession">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Resort" target="traveltickets.blogic.Country">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="TicketsWindow" target="MainWindow">
+              <point x="28.75" y="15.0" />
+              <point x="589.3247280377669" y="730.0" />
+              <point x="510.3125000000001" y="730.0" />
+              <point x="45.9375" y="-15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.User">
+              <point x="43.75" y="-15.0" />
+              <point x="157.52057676518893" y="450.0" />
+              <point x="458.251683087028" y="450.0" />
+              <point x="458.251683087028" y="330.0" />
+              <point x="456.5583333333334" y="330.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Tour">
+              <point x="18.75" y="-15.0" />
+              <point x="132.52057676518893" y="400.0" />
+              <point x="113.251683087028" y="400.0" />
+              <point x="113.251683087028" y="300.0" />
+              <point x="213.77115660919546" y="300.0" />
+              <point x="-22.125" y="15.0" />
+            </edge>
+            <edge source="TravelTickets" target="LoginWindow">
+              <point x="-25.75" y="-15.0" />
+              <point x="595.782933087028" y="885.0" />
+              <point x="493.0937500000001" y="885.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="MainWindow" target="traveltickets.servicelayer.LoginServ">
+              <point x="19.6875" y="-15.0" />
+              <point x="484.0625000000001" y="710.0" />
+              <point x="492.57472803776693" y="710.0" />
+              <point x="492.57472803776693" y="540.0" />
+              <point x="487.41834975369466" y="540.0" />
+              <point x="7.166666666666686" y="15.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Tickets" target="traveltickets.blogic.Payment">
+              <point x="-23.666666666666686" y="-15.0" />
+              <point x="135.5850164203613" y="290.0" />
+              <point x="137.875" y="290.0" />
+              <point x="20.25" y="15.0" />
+            </edge>
+            <edge source="TourWindow" target="traveltickets.servicelayer.LoginServ">
+              <point x="0.0" y="-15.0" />
+              <point x="326.3333333333334" y="540.0" />
+              <point x="473.0850164203613" y="540.0" />
+              <point x="-7.166666666666686" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Hotel">
+              <point x="-18.75" y="-15.0" />
+              <point x="95.02057676518893" y="430.0" />
+              <point x="55.625" y="430.0" />
+              <point x="55.625" y="210.0" />
+              <point x="68.25032327586206" y="210.0" />
+              <point x="-15.75" y="15.0" />
+            </edge>
+            <edge source="MainWindow" target="TicketsWindow">
+              <point x="32.8125" y="-15.0" />
+              <point x="497.1875000000001" y="720.0" />
+              <point x="531.8247280377669" y="720.0" />
+              <point x="-28.75" y="15.0" />
+            </edge>
+            <edge source="TravelTickets" target="traveltickets.httplayer.HttpServer">
+              <point x="25.75" y="-15.0" />
+              <point x="647.282933087028" y="885.0" />
+              <point x="699.0747280377669" y="885.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Resort">
+              <point x="24.571428571428555" y="-15.0" />
+              <point x="504.8231116584566" y="440.0" />
+              <point x="533.8619047619048" y="440.0" />
+              <point x="533.8619047619048" y="135.0" />
+              <point x="106.33365660919537" y="135.0" />
+              <point x="22.333333333333314" y="15.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Tickets" target="traveltickets.blogic.User">
+              <point x="23.666666666666657" y="-15.0" />
+              <point x="182.91834975369466" y="320.0" />
+              <point x="433.75833333333344" y="320.0" />
+              <point x="-22.799999999999997" y="15.0" />
+            </edge>
+            <edge source="SelectTour" target="MainWindow">
+              <point x="22.5" y="15.0" />
+              <point x="287.57472803776693" y="720.0" />
+              <point x="431.5625000000001" y="720.0" />
+              <point x="-32.8125" y="-15.0" />
+            </edge>
+            <edge source="TourWindow" target="SelectTour">
+              <point x="0.0" y="15.0" />
+              <point x="326.3333333333334" y="630.0" />
+              <point x="295.07472803776693" y="630.0" />
+              <point x="30.0" y="-15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.blogic.Meal">
+              <point x="-6.25" y="-15.0" />
+              <point x="107.52057676518893" y="420.0" />
+              <point x="66.625" y="420.0" />
+              <point x="66.625" y="220.0" />
+              <point x="230.64615660919546" y="220.0" />
+              <point x="-20.0" y="15.0" />
+            </edge>
+            <edge source="TicketsWindow" target="traveltickets.servicelayer.LoginServ">
+              <point x="0.0" y="-15.0" />
+              <point x="560.5747280377669" y="540.0" />
+              <point x="501.751683087028" y="540.0" />
+              <point x="21.5" y="15.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Tour" target="traveltickets.blogic.Hotel">
+              <point x="-14.75" y="-15.0" />
+              <point x="221.14615660919546" y="210.0" />
+              <point x="99.75032327586206" y="210.0" />
+              <point x="15.75" y="15.0" />
+            </edge>
+            <edge source="traveltickets.blogic.Tickets" target="traveltickets.blogic.Tour">
+              <point x="0.0" y="-15.0" />
+              <point x="159.251683087028" y="310.0" />
+              <point x="228.52115660919546" y="310.0" />
+              <point x="-7.375" y="15.0" />
+            </edge>
+            <edge source="MainWindow" target="SelectTour">
+              <point x="-45.9375" y="-15.0" />
+              <point x="418.4375000000001" y="730.0" />
+              <point x="242.5747280377669" y="730.0" />
+              <point x="-22.5" y="15.0" />
+            </edge>
+            <edge source="traveltickets.utils.JSONBuilder" target="traveltickets.blogic.Tour">
+              <point x="0.0" y="-15.0" />
+              <point x="264.251683087028" y="310.0" />
+              <point x="243.27115660919546" y="310.0" />
+              <point x="7.375" y="15.0" />
+            </edge>
+            <edge source="SelectTour" target="TourWindow">
+              <point x="0.0" y="-15.0" />
+              <point x="265.07472803776693" y="620.0" />
+              <point x="292.0000000000001" y="620.0" />
+              <point x="-34.333333333333314" y="15.0" />
+            </edge>
+            <edge source="traveltickets.servicelayer.LoginServ" target="traveltickets.blogic.Country">
+              <point x="36.85714285714289" y="-15.0" />
+              <point x="517.1088259441709" y="450.0" />
+              <point x="550.1952380952382" y="450.0" />
+              <point x="550.1952380952382" y="55.0" />
+              <point x="109.66698994252874" y="55.0" />
+              <point x="25.666666666666686" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0604166666666666" x="203.3261296660118" y="677.3261296660119" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/ClientSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1904">
+          <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/HttpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/JSONBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/ModalDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/ProgrammTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73712736" vertical-offset="0" max-vertical-offset="595">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lombok</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TravelTickets</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lombok</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
