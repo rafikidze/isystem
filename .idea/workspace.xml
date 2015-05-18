@@ -113,11 +113,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Country.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Country.java">
+      <file leaf-file-name="LoginServ.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/LoginServ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="782">
+              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1474#1475#0" expanded="true" />
+                <element signature="e#1523#1524#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="meal.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meal.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -126,119 +140,324 @@
       <file leaf-file-name="DBProcessor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/DBProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="8313">
-              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8976">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1430986943267" expanded="true" signature="1291:1360" placeholder="INSERT INTO ..." />
-                <marker date="1430986943267" expanded="true" signature="2011:2053" placeholder="SELECT login..user..." />
-                <marker date="1430986943267" expanded="true" signature="2533:2604" placeholder="SELECT is_ad..user..." />
-                <marker date="1430986943267" expanded="true" signature="3306:3350" placeholder="SELECT count..country..." />
-                <marker date="1430986943267" expanded="true" signature="3996:4058" placeholder="SELECT resor..resort..." />
-                <marker date="1430986943267" expanded="true" signature="4671:4706" placeholder="SELECT meal_..meal..." />
-                <marker date="1430986943267" expanded="true" signature="5379:5739" placeholder="SELECT tour...tour..." />
-                <marker date="1430986943267" expanded="true" signature="7460:7504" placeholder="SELECT meal_..meal..." />
-                <marker date="1430986943267" expanded="true" signature="8017:8082" placeholder="SELECT hotel..hotel..." />
-                <marker date="1430986943267" expanded="true" signature="8825:8887" placeholder="SELECT resor..resort..." />
-                <marker date="1430986943267" expanded="true" signature="9601:9654" placeholder="SELECT count..country..." />
-                <marker date="1430986943267" expanded="true" signature="10179:10321" placeholder="SELECT tour_..tour..." />
-                <marker date="1430986943267" expanded="true" signature="11244:11308" placeholder="SELECT login..user..." />
-                <marker date="1430986943267" expanded="true" signature="12009:12062" placeholder="SELECT payme..payment..." />
-                <marker date="1430986943267" expanded="true" signature="12689:12764" placeholder="SELECT ticke..ticket..." />
-                <marker date="1430986943267" expanded="true" signature="13684:13769" placeholder="SELECT ticke..ticket..." />
-                <marker date="1430986943267" expanded="true" signature="14670:14730" placeholder="INSERT INTO ..." />
-                <marker date="1430986943267" expanded="true" signature="15168:15216" placeholder="UPDATE ticke..." />
-                <marker date="1430986943267" expanded="true" signature="15622:15674" placeholder="UPDATE ticke..." />
-                <marker date="1430986943267" expanded="true" signature="16450:16489" placeholder="INSERT INTO ..." />
+                <marker date="1431945126761" expanded="true" signature="2641:2710" placeholder="INSERT INTO ..." />
+                <marker date="1431945126761" expanded="true" signature="3394:3436" placeholder="SELECT login..user..." />
+                <marker date="1431945126761" expanded="true" signature="3916:3987" placeholder="SELECT is_ad..user..." />
+                <marker date="1431945126761" expanded="true" signature="4722:4766" placeholder="SELECT count..country..." />
+                <marker date="1431945126761" expanded="true" signature="5421:5483" placeholder="SELECT resor..resort..." />
+                <marker date="1431945126761" expanded="true" signature="6135:6170" placeholder="SELECT meal_..meal..." />
+                <marker date="1431945126761" expanded="true" signature="6843:7203" placeholder="SELECT tour...tour..." />
+                <marker date="1431945126761" expanded="true" signature="8959:9003" placeholder="SELECT meal_..meal..." />
+                <marker date="1431945126761" expanded="true" signature="9516:9581" placeholder="SELECT hotel..hotel..." />
+                <marker date="1431945126761" expanded="true" signature="10324:10386" placeholder="SELECT resor..resort..." />
+                <marker date="1431945126761" expanded="true" signature="11100:11153" placeholder="SELECT count..country..." />
+                <marker date="1431945126761" expanded="true" signature="11678:11820" placeholder="SELECT tour_..tour..." />
+                <marker date="1431945126761" expanded="true" signature="12743:12807" placeholder="SELECT login..user..." />
+                <marker date="1431945126761" expanded="true" signature="13508:13561" placeholder="SELECT payme..payment..." />
+                <marker date="1431945126761" expanded="true" signature="14179:14254" placeholder="SELECT ticke..ticket..." />
+                <marker date="1431945126761" expanded="true" signature="15213:15298" placeholder="SELECT ticke..ticket..." />
+                <marker date="1431945126761" expanded="true" signature="16227:16287" placeholder="INSERT INTO ..." />
+                <marker date="1431945126761" expanded="true" signature="16725:16773" placeholder="UPDATE ticke..." />
+                <marker date="1431945126761" expanded="true" signature="17179:17231" placeholder="UPDATE ticke..." />
+                <marker date="1431945126761" expanded="true" signature="18007:18046" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MealLogic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/MealLogic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PaymentLogic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/PaymentLogic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-              <folding>
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResortLogic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/ResortLogic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-              <folding>
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TicketLogic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/TicketLogic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="101" max-vertical-offset="510">
-              <caret line="26" column="46" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="46" />
-              <folding>
-                <element signature="e#857#858#0" expanded="true" />
-                <element signature="e#909#910#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginServ.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/LoginServ.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.405868" vertical-offset="629" max-vertical-offset="3570">
-              <caret line="145" column="26" selection-start-line="145" selection-start-column="26" selection-end-line="145" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TourLogic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/TourLogic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-              <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserLogic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/UserLogic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="JAVA/traveltickets.blogic.CountryLogic" pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/traveltickets.blogic.CountryLogic">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>traveltickets.blogic.CountryLogic</OriginalElement>
+              <nodes>
+                <node x="552.0" y="1030.0">traveltickets.blogic.TourLogic</node>
+                <node x="127.875" y="875.0">traveltickets.httplayer.HttpServer</node>
+                <node x="288.14622395833345" y="450.0">traveltickets.datalayer.DBProcessor</node>
+                <node x="985.9640151515152" y="525.0">traveltickets.utils.ModalDialog</node>
+                <node x="685.0" y="1030.0">traveltickets.servicelayer.Reader</node>
+                <node x="" y="">traveltickets.blogic.CountryLogic</node>
+                <node x="532.9640151515152" y="525.0">traveltickets.blogic.PaymentLogic</node>
+                <node x="464.48697916666674" y="240.0">traveltickets.datalayer.Tour</node>
+                <node x="339.0" y="615.0">SelectTour</node>
+                <node x="363.48697916666674" y="240.0">traveltickets.datalayer.Payment</node>
+                <node x="508.6536458333334" y="330.0">traveltickets.utils.JSONBuilder</node>
+                <node x="141.0" y="1030.0">traveltickets.blogic.TicketLogic</node>
+                <node x="244.875" y="795.0">MainWindow</node>
+                <node x="375.80000000000007" y="160.0">traveltickets.datalayer.Hotel</node>
+                <node x="838.9640151515152" y="525.0">traveltickets.httplayer.RequestType</node>
+                <node x="76.26575520833342" y="330.0">ProgrammTest</node>
+                <node x="363.64109848484844" y="525.0">traveltickets.servicelayer.LoginServ</node>
+                <node x="53.781901041666686" y="80.0">traveltickets.datalayer.Resort</node>
+                <node x="24.031901041666686" y="0.0">traveltickets.datalayer.Country</node>
+                <node x="345.48697916666674" y="330.0">traveltickets.datalayer.Tickets</node>
+                <node x="305.1202651515152" y="875.0">LoginWindow</node>
+                <node x="296.0" y="695.0">TourWindow</node>
+                <node x="0.0" y="695.0">InformationWindow</node>
+                <node x="552.1717447916667" y="160.0">traveltickets.datalayer.Meal</node>
+                <node x="281.0" y="1030.0">traveltickets.blogic.HotelLogic</node>
+                <node x="120.875" y="795.0">traveltickets.httplayer.ClientSession</node>
+                <node x="161.0" y="695.0">TicketsWindow</node>
+                <node x="209.26575520833342" y="330.0">traveltickets.blogic.UserLogic</node>
+                <node x="225.49526515151518" y="955.0">TravelTickets</node>
+                <node x="253.1717447916668" y="240.0">traveltickets.datalayer.User</node>
+                <node x="418.0" y="1030.0">traveltickets.blogic.MealLogic</node>
+                <node x="0.0" y="1030.0">traveltickets.blogic.ResortLogic</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="MainWindow" target="TourWindow">
+                  <point x="6.5625" y="-15.0" />
+                  <point x="303.9375" y="745.0" />
+                  <point x="347.5" y="745.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.Tickets" target="traveltickets.datalayer.Payment">
+                  <point x="0.0" y="-15.0" />
+                  <point x="380.98697916666674" y="310.0" />
+                  <point x="383.73697916666674" y="310.0" />
+                  <point x="-20.25" y="15.0" />
+                </edge>
+                <edge source="MainWindow" target="LoginWindow">
+                  <point x="26.25" y="15.0" />
+                  <point x="323.625" y="855.0" />
+                  <point x="345.6202651515152" y="855.0" />
+                  <point x="-13.5" y="-15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Resort">
+                  <point x="-29.166666666666686" y="-15.0" />
+                  <point x="308.97955729166677" y="410.0" />
+                  <point x="65.76575520833342" y="410.0" />
+                  <point x="65.76575520833342" y="140.0" />
+                  <point x="87.28190104166669" y="140.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.Tickets" target="traveltickets.datalayer.Tour">
+                  <point x="23.66666666666667" y="-15.0" />
+                  <point x="404.6536458333334" y="310.0" />
+                  <point x="471.86197916666674" y="310.0" />
+                  <point x="-22.125" y="15.0" />
+                </edge>
+                <edge source="SelectTour" target="traveltickets.servicelayer.LoginServ">
+                  <point x="0.0" y="-15.0" />
+                  <point x="384.0" y="595.0" />
+                  <point x="399.47443181818176" y="595.0" />
+                  <point x="-7.166666666666686" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Meal">
+                  <point x="45.83333333333334" y="-15.0" />
+                  <point x="383.97955729166677" y="430.0" />
+                  <point x="618.1536458333335" y="430.0" />
+                  <point x="618.1536458333335" y="215.0" />
+                  <point x="602.1717447916667" y="215.0" />
+                  <point x="20.0" y="15.0" />
+                </edge>
+                <edge source="traveltickets.utils.JSONBuilder" target="traveltickets.datalayer.Meal">
+                  <point x="24.75" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="LoginWindow" target="traveltickets.servicelayer.LoginServ">
+                  <point x="40.5" y="-15.0" />
+                  <point x="399.6202651515152" y="855.0" />
+                  <point x="461.9640151515152" y="855.0" />
+                  <point x="461.9640151515152" y="575.0" />
+                  <point x="442.4744318181818" y="575.0" />
+                  <point x="35.83333333333337" y="15.0" />
+                </edge>
+                <edge source="MainWindow" target="InformationWindow">
+                  <point x="-45.9375" y="-15.0" />
+                  <point x="251.4375" y="775.0" />
+                  <point x="35.25" y="775.0" />
+                  <point x="-35.25" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Tickets">
+                  <point x="12.5" y="-15.0" />
+                  <point x="350.64622395833345" y="390.0" />
+                  <point x="398.73697916666674" y="390.0" />
+                  <point x="17.75" y="15.0" />
+                </edge>
+                <edge source="LoginWindow" target="MainWindow">
+                  <point x="-40.5" y="-15.0" />
+                  <point x="318.6202651515152" y="855.0" />
+                  <point x="271.125" y="855.0" />
+                  <point x="-26.25" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.Hotel" target="traveltickets.datalayer.Resort">
+                  <point x="0.0" y="-15.0" />
+                  <point x="407.30000000000007" y="140.0" />
+                  <point x="109.615234375" y="140.0" />
+                  <point x="22.33333333333333" y="15.0" />
+                </edge>
+                <edge source="traveltickets.blogic.UserLogic" target="traveltickets.datalayer.User">
+                  <point x="0.0" y="-15.0" />
+                  <point x="252.26575520833342" y="310.0" />
+                  <point x="270.27174479166683" y="310.0" />
+                  <point x="-11.399999999999977" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.Tour" target="traveltickets.datalayer.Hotel">
+                  <point x="-14.75" y="-15.0" />
+                  <point x="479.23697916666674" y="215.0" />
+                  <point x="423.05000000000007" y="215.0" />
+                  <point x="15.75" y="15.0" />
+                </edge>
+                <edge source="traveltickets.httplayer.HttpServer" target="traveltickets.httplayer.ClientSession">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Tour">
+                  <point x="37.5" y="-15.0" />
+                  <point x="375.64622395833345" y="420.0" />
+                  <point x="498.1536458333334" y="420.0" />
+                  <point x="498.1536458333334" y="310.0" />
+                  <point x="501.36197916666674" y="310.0" />
+                  <point x="7.375" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Hotel">
+                  <point x="-4.166666666666686" y="-15.0" />
+                  <point x="333.97955729166677" y="430.0" />
+                  <point x="334.98697916666674" y="430.0" />
+                  <point x="334.98697916666674" y="215.0" />
+                  <point x="391.55000000000007" y="215.0" />
+                  <point x="-15.75" y="15.0" />
+                </edge>
+                <edge source="traveltickets.utils.JSONBuilder" target="traveltickets.datalayer.Tour">
+                  <point x="-24.75" y="-15.0" />
+                  <point x="533.4036458333335" y="310.0" />
+                  <point x="516.1119791666667" y="310.0" />
+                  <point x="22.125" y="15.0" />
+                </edge>
+                <edge source="TicketsWindow" target="MainWindow">
+                  <point x="28.75" y="15.0" />
+                  <point x="247.25" y="745.0" />
+                  <point x="290.8125" y="745.0" />
+                  <point x="-6.5625" y="-15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.Tour" target="traveltickets.datalayer.Meal">
+                  <point x="14.75" y="-15.0" />
+                  <point x="508.73697916666674" y="215.0" />
+                  <point x="562.1717447916667" y="215.0" />
+                  <point x="-20.0" y="15.0" />
+                </edge>
+                <edge source="TravelTickets" target="LoginWindow">
+                  <point x="25.75" y="-15.0" />
+                  <point x="302.7452651515152" y="930.0" />
+                  <point x="359.1202651515152" y="930.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="MainWindow" target="traveltickets.servicelayer.LoginServ">
+                  <point x="45.9375" y="-15.0" />
+                  <point x="343.3125" y="775.0" />
+                  <point x="439.5" y="775.0" />
+                  <point x="439.5" y="595.0" />
+                  <point x="413.8077651515151" y="595.0" />
+                  <point x="7.166666666666686" y="15.0" />
+                </edge>
+                <edge source="TourWindow" target="traveltickets.servicelayer.LoginServ">
+                  <point x="-34.33333333333334" y="-15.0" />
+                  <point x="313.16666666666663" y="670.0" />
+                  <point x="291.3494318181818" y="670.0" />
+                  <point x="291.3494318181818" y="585.0" />
+                  <point x="385.14109848484844" y="585.0" />
+                  <point x="-21.5" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Payment">
+                  <point x="20.833333333333314" y="-15.0" />
+                  <point x="358.97955729166677" y="400.0" />
+                  <point x="426.98697916666674" y="400.0" />
+                  <point x="426.98697916666674" y="300.0" />
+                  <point x="424.23697916666674" y="300.0" />
+                  <point x="20.25" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.User">
+                  <point x="-20.833333333333343" y="-15.0" />
+                  <point x="317.31289062500014" y="400.0" />
+                  <point x="305.7657552083334" y="400.0" />
+                  <point x="305.7657552083334" y="310.0" />
+                  <point x="281.6717447916668" y="310.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="TravelTickets" target="traveltickets.httplayer.HttpServer">
+                  <point x="-25.75" y="-15.0" />
+                  <point x="251.24526515151518" y="930.0" />
+                  <point x="172.875" y="930.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="MainWindow" target="TicketsWindow">
+                  <point x="-19.6875" y="-15.0" />
+                  <point x="277.6875" y="755.0" />
+                  <point x="189.75" y="755.0" />
+                  <point x="-28.75" y="15.0" />
+                </edge>
+                <edge source="ProgrammTest" target="traveltickets.datalayer.User">
+                  <point x="0.0" y="-15.0" />
+                  <point x="132.76575520833342" y="300.0" />
+                  <point x="258.8717447916668" y="300.0" />
+                  <point x="-22.80000000000001" y="15.0" />
+                </edge>
+                <edge source="SelectTour" target="MainWindow">
+                  <point x="33.75" y="15.0" />
+                  <point x="417.75" y="670.0" />
+                  <point x="423.3077651515152" y="670.0" />
+                  <point x="423.3077651515152" y="765.0" />
+                  <point x="330.1875" y="765.0" />
+                  <point x="32.8125" y="-15.0" />
+                </edge>
+                <edge source="TourWindow" target="SelectTour">
+                  <point x="0.0" y="-15.0" />
+                  <point x="347.5" y="670.0" />
+                  <point x="350.25" y="670.0" />
+                  <point x="-33.75" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Country">
+                  <point x="-45.83333333333337" y="-15.0" />
+                  <point x="292.3128906250001" y="430.0" />
+                  <point x="26.0" y="430.0" />
+                  <point x="26.0" y="55.0" />
+                  <point x="43.281901041666686" y="55.0" />
+                  <point x="-19.25" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.Tickets" target="traveltickets.datalayer.User">
+                  <point x="-23.666666666666686" y="-15.0" />
+                  <point x="357.3203125000001" y="290.0" />
+                  <point x="304.4717447916668" y="290.0" />
+                  <point x="22.80000000000001" y="15.0" />
+                </edge>
+                <edge source="TicketsWindow" target="traveltickets.servicelayer.LoginServ">
+                  <point x="0.0" y="-15.0" />
+                  <point x="218.5" y="575.0" />
+                  <point x="370.8077651515151" y="575.0" />
+                  <point x="-35.833333333333314" y="15.0" />
+                </edge>
+                <edge source="traveltickets.datalayer.Resort" target="traveltickets.datalayer.Country">
+                  <point x="0.0" y="-15.0" />
+                  <point x="87.28190104166669" y="55.0" />
+                  <point x="81.78190104166669" y="55.0" />
+                  <point x="19.25" y="15.0" />
+                </edge>
+                <edge source="MainWindow" target="SelectTour">
+                  <point x="19.6875" y="-15.0" />
+                  <point x="317.0625" y="755.0" />
+                  <point x="409.5" y="755.0" />
+                  <point x="409.5" y="670.0" />
+                  <point x="395.25" y="670.0" />
+                  <point x="11.25" y="15.0" />
+                </edge>
+                <edge source="SelectTour" target="TourWindow">
+                  <point x="-11.25" y="15.0" />
+                  <point x="372.75" y="670.0" />
+                  <point x="381.8333333333333" y="670.0" />
+                  <point x="34.33333333333334" y="-15.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.9138888888888891" x="535.5805471124619" y="801.6474164133738" />
+              <SelectedNodes />
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -246,11 +465,64 @@
       <file leaf-file-name="CountryLogic.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/CountryLogic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TicketLogic.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/TicketLogic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1513">
+              <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
               <folding>
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Country.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Country.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hotel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Hotel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Meal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Meal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="697">
+              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/Reader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+              <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -298,33 +570,33 @@
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/TicketsWindow.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/Resort.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/ResortLogic.java" />
-        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Country.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Hotel.java" />
-        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/HotelLogic.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/PaymentLogic.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Payment.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Resort.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/TicketsLogic.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/User.java" />
-        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/CountryLogic.java" />
-        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/ResortLogic.java" />
-        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/UserLogic.java" />
-        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/TicketLogic.java" />
-        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/LoginServ.java" />
-        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/TourLogic.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/ProgrammTest.java" />
-        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/MealLogic.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/MainWindow.jfd" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/RequestType.java" />
-        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Meal.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Tour.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/ClientSession.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/Reader.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/JSONBuilder.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/MainWindow.java" />
         <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/HttpServer.java" />
-        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/DBProcessor.java" />
         <option value="$PROJECT_DIR$/meal.txt" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/UserLogic.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/CountryLogic.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Meal.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/MealLogic.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/HotelLogic.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/ResortLogic.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/TicketLogic.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/TourLogic.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Country.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/LoginServ.java" />
+        <option value="$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/DBProcessor.java" />
       </list>
     </option>
   </component>
@@ -461,6 +733,10 @@
               <option name="myItemId" value="traveltickets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -519,6 +795,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="httplayer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrevellTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets — original" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TravelTickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="traveltickets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datalayer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -935,30 +1241,32 @@
       <workItem from="1430379151205" duration="120000" />
       <workItem from="1430947254007" duration="3834000" />
       <workItem from="1430982439976" duration="3187000" />
-      <workItem from="1430986861048" duration="907000" />
-      <workItem from="1431587090094" duration="257000" />
+      <workItem from="1430985959974" duration="194000" />
+      <workItem from="1431430992140" duration="45000" />
+      <workItem from="1431904845850" duration="3084000" />
+      <workItem from="1431938410374" duration="1997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59029000" />
+    <option name="totallyTimeSpent" value="63185000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1535" height="826" extended-state="1" />
+    <frame x="0" y="0" width="1535" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32775453" sideWeight="0.47860435" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32775453" sideWeight="0.47885197" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39051604" sideWeight="0.5213957" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18078175" sideWeight="0.521148" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39051604" sideWeight="0.47860435" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14923291" sideWeight="0.47885197" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3001975" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -976,6 +1284,32 @@
       <window_info id="IntelliGuard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.47885197" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18078175" sideWeight="0.521148" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39052287" sideWeight="0.47885197" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="IntelliGuard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1744713" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16400427" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40359476" sideWeight="0.48489425" order="8" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -998,7 +1332,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="28" />
+      <option name="time" value="32" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1007,25 +1341,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/MealLogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="425">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/LoginServ.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1034,27 +1353,26 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="75" column="40" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1430986943267" expanded="true" signature="1291:1360" placeholder="INSERT INTO ..." />
-            <marker date="1430986943267" expanded="true" signature="2011:2053" placeholder="SELECT login..user..." />
-            <marker date="1430986943267" expanded="true" signature="2533:2604" placeholder="SELECT is_ad..user..." />
-            <marker date="1430986943267" expanded="true" signature="3306:3350" placeholder="SELECT count..country..." />
-            <marker date="1430986943267" expanded="true" signature="3996:4058" placeholder="SELECT resor..resort..." />
-            <marker date="1430986943267" expanded="true" signature="4671:4706" placeholder="SELECT meal_..meal..." />
-            <marker date="1430986943267" expanded="true" signature="5379:5739" placeholder="SELECT tour...tour..." />
-            <marker date="1430986943267" expanded="true" signature="7460:7504" placeholder="SELECT meal_..meal..." />
-            <marker date="1430986943267" expanded="true" signature="8017:8082" placeholder="SELECT hotel..hotel..." />
-            <marker date="1430986943267" expanded="true" signature="8825:8887" placeholder="SELECT resor..resort..." />
-            <marker date="1430986943267" expanded="true" signature="9601:9654" placeholder="SELECT count..country..." />
-            <marker date="1430986943267" expanded="true" signature="10179:10321" placeholder="SELECT tour_..tour..." />
-            <marker date="1430986943267" expanded="true" signature="11244:11308" placeholder="SELECT login..user..." />
-            <marker date="1430986943267" expanded="true" signature="12009:12062" placeholder="SELECT payme..payment..." />
-            <marker date="1430986943267" expanded="true" signature="12689:12764" placeholder="SELECT ticke..ticket..." />
-            <marker date="1430986943267" expanded="true" signature="13684:13769" placeholder="SELECT ticke..ticket..." />
-            <marker date="1430986943267" expanded="true" signature="14670:14730" placeholder="INSERT INTO ..." />
-            <marker date="1430986943267" expanded="true" signature="15168:15216" placeholder="UPDATE ticke..." />
-            <marker date="1430986943267" expanded="true" signature="15622:15674" placeholder="UPDATE ticke..." />
-            <marker date="1430986943267" expanded="true" signature="16450:16489" placeholder="INSERT INTO ..." />
+            <marker date="1431945126761" expanded="true" signature="2641:2710" placeholder="INSERT INTO ..." />
+            <marker date="1431945126761" expanded="true" signature="3394:3436" placeholder="SELECT login..user..." />
+            <marker date="1431945126761" expanded="true" signature="3916:3987" placeholder="SELECT is_ad..user..." />
+            <marker date="1431945126761" expanded="true" signature="4722:4766" placeholder="SELECT count..country..." />
+            <marker date="1431945126761" expanded="true" signature="5421:5483" placeholder="SELECT resor..resort..." />
+            <marker date="1431945126761" expanded="true" signature="6135:6170" placeholder="SELECT meal_..meal..." />
+            <marker date="1431945126761" expanded="true" signature="6843:7203" placeholder="SELECT tour...tour..." />
+            <marker date="1431945126761" expanded="true" signature="8959:9003" placeholder="SELECT meal_..meal..." />
+            <marker date="1431945126761" expanded="true" signature="9516:9581" placeholder="SELECT hotel..hotel..." />
+            <marker date="1431945126761" expanded="true" signature="10324:10386" placeholder="SELECT resor..resort..." />
+            <marker date="1431945126761" expanded="true" signature="11100:11153" placeholder="SELECT count..country..." />
+            <marker date="1431945126761" expanded="true" signature="11678:11820" placeholder="SELECT tour_..tour..." />
+            <marker date="1431945126761" expanded="true" signature="12743:12807" placeholder="SELECT login..user..." />
+            <marker date="1431945126761" expanded="true" signature="13508:13561" placeholder="SELECT payme..payment..." />
+            <marker date="1431945126761" expanded="true" signature="14179:14254" placeholder="SELECT ticke..ticket..." />
+            <marker date="1431945126761" expanded="true" signature="15213:15298" placeholder="SELECT ticke..ticket..." />
+            <marker date="1431945126761" expanded="true" signature="16227:16287" placeholder="INSERT INTO ..." />
+            <marker date="1431945126761" expanded="true" signature="16725:16773" placeholder="UPDATE ticke..." />
+            <marker date="1431945126761" expanded="true" signature="17179:17231" placeholder="UPDATE ticke..." />
+            <marker date="1431945126761" expanded="true" signature="18007:18046" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1092,9 +1410,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1117,27 +1432,26 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="747" column="0" selection-start-line="426" selection-start-column="4" selection-end-line="747" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1430986943267" expanded="true" signature="1291:1360" placeholder="INSERT INTO ..." />
-            <marker date="1430986943267" expanded="true" signature="2011:2053" placeholder="SELECT login..user..." />
-            <marker date="1430986943267" expanded="true" signature="2533:2604" placeholder="SELECT is_ad..user..." />
-            <marker date="1430986943267" expanded="true" signature="3306:3350" placeholder="SELECT count..country..." />
-            <marker date="1430986943267" expanded="true" signature="3996:4058" placeholder="SELECT resor..resort..." />
-            <marker date="1430986943267" expanded="true" signature="4671:4706" placeholder="SELECT meal_..meal..." />
-            <marker date="1430986943267" expanded="true" signature="5379:5739" placeholder="SELECT tour...tour..." />
-            <marker date="1430986943267" expanded="true" signature="7460:7504" placeholder="SELECT meal_..meal..." />
-            <marker date="1430986943267" expanded="true" signature="8017:8082" placeholder="SELECT hotel..hotel..." />
-            <marker date="1430986943267" expanded="true" signature="8825:8887" placeholder="SELECT resor..resort..." />
-            <marker date="1430986943267" expanded="true" signature="9601:9654" placeholder="SELECT count..country..." />
-            <marker date="1430986943267" expanded="true" signature="10179:10321" placeholder="SELECT tour_..tour..." />
-            <marker date="1430986943267" expanded="true" signature="11244:11308" placeholder="SELECT login..user..." />
-            <marker date="1430986943267" expanded="true" signature="12009:12062" placeholder="SELECT payme..payment..." />
-            <marker date="1430986943267" expanded="true" signature="12689:12764" placeholder="SELECT ticke..ticket..." />
-            <marker date="1430986943267" expanded="true" signature="13684:13769" placeholder="SELECT ticke..ticket..." />
-            <marker date="1430986943267" expanded="true" signature="14670:14730" placeholder="INSERT INTO ..." />
-            <marker date="1430986943267" expanded="true" signature="15168:15216" placeholder="UPDATE ticke..." />
-            <marker date="1430986943267" expanded="true" signature="15622:15674" placeholder="UPDATE ticke..." />
-            <marker date="1430986943267" expanded="true" signature="16450:16489" placeholder="INSERT INTO ..." />
+            <marker date="1431945126761" expanded="true" signature="2641:2710" placeholder="INSERT INTO ..." />
+            <marker date="1431945126761" expanded="true" signature="3394:3436" placeholder="SELECT login..user..." />
+            <marker date="1431945126761" expanded="true" signature="3916:3987" placeholder="SELECT is_ad..user..." />
+            <marker date="1431945126761" expanded="true" signature="4722:4766" placeholder="SELECT count..country..." />
+            <marker date="1431945126761" expanded="true" signature="5421:5483" placeholder="SELECT resor..resort..." />
+            <marker date="1431945126761" expanded="true" signature="6135:6170" placeholder="SELECT meal_..meal..." />
+            <marker date="1431945126761" expanded="true" signature="6843:7203" placeholder="SELECT tour...tour..." />
+            <marker date="1431945126761" expanded="true" signature="8959:9003" placeholder="SELECT meal_..meal..." />
+            <marker date="1431945126761" expanded="true" signature="9516:9581" placeholder="SELECT hotel..hotel..." />
+            <marker date="1431945126761" expanded="true" signature="10324:10386" placeholder="SELECT resor..resort..." />
+            <marker date="1431945126761" expanded="true" signature="11100:11153" placeholder="SELECT count..country..." />
+            <marker date="1431945126761" expanded="true" signature="11678:11820" placeholder="SELECT tour_..tour..." />
+            <marker date="1431945126761" expanded="true" signature="12743:12807" placeholder="SELECT login..user..." />
+            <marker date="1431945126761" expanded="true" signature="13508:13561" placeholder="SELECT payme..payment..." />
+            <marker date="1431945126761" expanded="true" signature="14179:14254" placeholder="SELECT ticke..ticket..." />
+            <marker date="1431945126761" expanded="true" signature="15213:15298" placeholder="SELECT ticke..ticket..." />
+            <marker date="1431945126761" expanded="true" signature="16227:16287" placeholder="INSERT INTO ..." />
+            <marker date="1431945126761" expanded="true" signature="16725:16773" placeholder="UPDATE ticke..." />
+            <marker date="1431945126761" expanded="true" signature="17179:17231" placeholder="UPDATE ticke..." />
+            <marker date="1431945126761" expanded="true" signature="18007:18046" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1146,13 +1460,6 @@
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/TourWindow.jfd" />
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/LoginWindow.jfd" />
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/InformationWindow.jfd" />
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/ModalDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/SelectTour.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
@@ -1193,51 +1500,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Hotel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6485788" vertical-offset="0" max-vertical-offset="0">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Payment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/HotelLogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Tickets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09418283" vertical-offset="0" max-vertical-offset="0">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63049096" vertical-offset="0" max-vertical-offset="0">
-          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Resort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70284235" vertical-offset="0" max-vertical-offset="0">
-          <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1245,9 +1511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="60" column="35" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="35" />
-          <folding>
-            <element signature="method#initComponents#0;class#TicketsWindow#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1255,86 +1518,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/MainWindow.jfd" />
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Meal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/ClientSession.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19166666" vertical-offset="0" max-vertical-offset="0">
-          <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Tour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06735751" vertical-offset="0" max-vertical-offset="0">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/HttpServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/Reader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
-          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meal.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/JSONBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/MainWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding>
-            <marker date="1430985534652" expanded="false" signature="-1:-1" placeholder="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/RequestType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="10" column="15" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="15" />
           <folding>
             <element signature="e#200#201#0" expanded="true" />
@@ -1343,126 +1533,529 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Country.java">
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/MainWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/DBProcessor.java">
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/HttpServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8313">
-          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1430986943267" expanded="true" signature="1291:1360" placeholder="INSERT INTO ..." />
-            <marker date="1430986943267" expanded="true" signature="2011:2053" placeholder="SELECT login..user..." />
-            <marker date="1430986943267" expanded="true" signature="2533:2604" placeholder="SELECT is_ad..user..." />
-            <marker date="1430986943267" expanded="true" signature="3306:3350" placeholder="SELECT count..country..." />
-            <marker date="1430986943267" expanded="true" signature="3996:4058" placeholder="SELECT resor..resort..." />
-            <marker date="1430986943267" expanded="true" signature="4671:4706" placeholder="SELECT meal_..meal..." />
-            <marker date="1430986943267" expanded="true" signature="5379:5739" placeholder="SELECT tour...tour..." />
-            <marker date="1430986943267" expanded="true" signature="7460:7504" placeholder="SELECT meal_..meal..." />
-            <marker date="1430986943267" expanded="true" signature="8017:8082" placeholder="SELECT hotel..hotel..." />
-            <marker date="1430986943267" expanded="true" signature="8825:8887" placeholder="SELECT resor..resort..." />
-            <marker date="1430986943267" expanded="true" signature="9601:9654" placeholder="SELECT count..country..." />
-            <marker date="1430986943267" expanded="true" signature="10179:10321" placeholder="SELECT tour_..tour..." />
-            <marker date="1430986943267" expanded="true" signature="11244:11308" placeholder="SELECT login..user..." />
-            <marker date="1430986943267" expanded="true" signature="12009:12062" placeholder="SELECT payme..payment..." />
-            <marker date="1430986943267" expanded="true" signature="12689:12764" placeholder="SELECT ticke..ticket..." />
-            <marker date="1430986943267" expanded="true" signature="13684:13769" placeholder="SELECT ticke..ticket..." />
-            <marker date="1430986943267" expanded="true" signature="14670:14730" placeholder="INSERT INTO ..." />
-            <marker date="1430986943267" expanded="true" signature="15168:15216" placeholder="UPDATE ticke..." />
-            <marker date="1430986943267" expanded="true" signature="15622:15674" placeholder="UPDATE ticke..." />
-            <marker date="1430986943267" expanded="true" signature="16450:16489" placeholder="INSERT INTO ..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/CountryLogic.java">
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Tour.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.54931974" vertical-offset="0" max-vertical-offset="0">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Tickets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1734694" vertical-offset="0" max-vertical-offset="0">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/MealLogic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.41295546" vertical-offset="0" max-vertical-offset="0">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/PaymentLogic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.20647773" vertical-offset="0" max-vertical-offset="0">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/ResortLogic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.3785425" vertical-offset="0" max-vertical-offset="0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/TourLogic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
-          <folding />
+        <state vertical-scroll-proportion="0.4493927" vertical-offset="0" max-vertical-offset="0">
+          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/UserLogic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.34412956" vertical-offset="0" max-vertical-offset="0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/httplayer/ClientSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.4433198" vertical-offset="0" max-vertical-offset="0">
+          <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/JSONBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3097166" vertical-offset="0" max-vertical-offset="0">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/utils/ModalDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6194332" vertical-offset="0" max-vertical-offset="0">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9635627" vertical-offset="0" max-vertical-offset="0">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Resort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55060726" vertical-offset="0" max-vertical-offset="0">
+          <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/HotelLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/CountryLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/blogic/TicketLogic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <caret line="26" column="46" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1513">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
           <folding>
-            <element signature="e#857#858#0" expanded="true" />
-            <element signature="e#909#910#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Hotel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="697">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/servicelayer/LoginServ.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.405868" vertical-offset="629" max-vertical-offset="3570">
-          <caret line="145" column="26" selection-start-line="145" selection-start-column="26" selection-end-line="145" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="782">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1474#1475#0" expanded="true" />
+            <element signature="e#1523#1524#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/DBProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8976">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1431945126761" expanded="true" signature="2641:2710" placeholder="INSERT INTO ..." />
+            <marker date="1431945126761" expanded="true" signature="3394:3436" placeholder="SELECT login..user..." />
+            <marker date="1431945126761" expanded="true" signature="3916:3987" placeholder="SELECT is_ad..user..." />
+            <marker date="1431945126761" expanded="true" signature="4722:4766" placeholder="SELECT count..country..." />
+            <marker date="1431945126761" expanded="true" signature="5421:5483" placeholder="SELECT resor..resort..." />
+            <marker date="1431945126761" expanded="true" signature="6135:6170" placeholder="SELECT meal_..meal..." />
+            <marker date="1431945126761" expanded="true" signature="6843:7203" placeholder="SELECT tour...tour..." />
+            <marker date="1431945126761" expanded="true" signature="8959:9003" placeholder="SELECT meal_..meal..." />
+            <marker date="1431945126761" expanded="true" signature="9516:9581" placeholder="SELECT hotel..hotel..." />
+            <marker date="1431945126761" expanded="true" signature="10324:10386" placeholder="SELECT resor..resort..." />
+            <marker date="1431945126761" expanded="true" signature="11100:11153" placeholder="SELECT count..country..." />
+            <marker date="1431945126761" expanded="true" signature="11678:11820" placeholder="SELECT tour_..tour..." />
+            <marker date="1431945126761" expanded="true" signature="12743:12807" placeholder="SELECT login..user..." />
+            <marker date="1431945126761" expanded="true" signature="13508:13561" placeholder="SELECT payme..payment..." />
+            <marker date="1431945126761" expanded="true" signature="14179:14254" placeholder="SELECT ticke..ticket..." />
+            <marker date="1431945126761" expanded="true" signature="15213:15298" placeholder="SELECT ticke..ticket..." />
+            <marker date="1431945126761" expanded="true" signature="16227:16287" placeholder="INSERT INTO ..." />
+            <marker date="1431945126761" expanded="true" signature="16725:16773" placeholder="UPDATE ticke..." />
+            <marker date="1431945126761" expanded="true" signature="17179:17231" placeholder="UPDATE ticke..." />
+            <marker date="1431945126761" expanded="true" signature="18007:18046" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/traveltickets.blogic.CountryLogic">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>traveltickets.blogic.CountryLogic</OriginalElement>
+          <nodes>
+            <node x="552.0" y="1030.0">traveltickets.blogic.TourLogic</node>
+            <node x="127.875" y="875.0">traveltickets.httplayer.HttpServer</node>
+            <node x="288.14622395833345" y="450.0">traveltickets.datalayer.DBProcessor</node>
+            <node x="985.9640151515152" y="525.0">traveltickets.utils.ModalDialog</node>
+            <node x="685.0" y="1030.0">traveltickets.servicelayer.Reader</node>
+            <node x="" y="">traveltickets.blogic.CountryLogic</node>
+            <node x="532.9640151515152" y="525.0">traveltickets.blogic.PaymentLogic</node>
+            <node x="464.48697916666674" y="240.0">traveltickets.datalayer.Tour</node>
+            <node x="339.0" y="615.0">SelectTour</node>
+            <node x="363.48697916666674" y="240.0">traveltickets.datalayer.Payment</node>
+            <node x="508.6536458333334" y="330.0">traveltickets.utils.JSONBuilder</node>
+            <node x="141.0" y="1030.0">traveltickets.blogic.TicketLogic</node>
+            <node x="244.875" y="795.0">MainWindow</node>
+            <node x="375.80000000000007" y="160.0">traveltickets.datalayer.Hotel</node>
+            <node x="838.9640151515152" y="525.0">traveltickets.httplayer.RequestType</node>
+            <node x="76.26575520833342" y="330.0">ProgrammTest</node>
+            <node x="363.64109848484844" y="525.0">traveltickets.servicelayer.LoginServ</node>
+            <node x="53.781901041666686" y="80.0">traveltickets.datalayer.Resort</node>
+            <node x="24.031901041666686" y="0.0">traveltickets.datalayer.Country</node>
+            <node x="345.48697916666674" y="330.0">traveltickets.datalayer.Tickets</node>
+            <node x="305.1202651515152" y="875.0">LoginWindow</node>
+            <node x="296.0" y="695.0">TourWindow</node>
+            <node x="0.0" y="695.0">InformationWindow</node>
+            <node x="552.1717447916667" y="160.0">traveltickets.datalayer.Meal</node>
+            <node x="281.0" y="1030.0">traveltickets.blogic.HotelLogic</node>
+            <node x="120.875" y="795.0">traveltickets.httplayer.ClientSession</node>
+            <node x="161.0" y="695.0">TicketsWindow</node>
+            <node x="209.26575520833342" y="330.0">traveltickets.blogic.UserLogic</node>
+            <node x="225.49526515151518" y="955.0">TravelTickets</node>
+            <node x="253.1717447916668" y="240.0">traveltickets.datalayer.User</node>
+            <node x="418.0" y="1030.0">traveltickets.blogic.MealLogic</node>
+            <node x="0.0" y="1030.0">traveltickets.blogic.ResortLogic</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="MainWindow" target="TourWindow">
+              <point x="6.5625" y="-15.0" />
+              <point x="303.9375" y="745.0" />
+              <point x="347.5" y="745.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.Tickets" target="traveltickets.datalayer.Payment">
+              <point x="0.0" y="-15.0" />
+              <point x="380.98697916666674" y="310.0" />
+              <point x="383.73697916666674" y="310.0" />
+              <point x="-20.25" y="15.0" />
+            </edge>
+            <edge source="MainWindow" target="LoginWindow">
+              <point x="26.25" y="15.0" />
+              <point x="323.625" y="855.0" />
+              <point x="345.6202651515152" y="855.0" />
+              <point x="-13.5" y="-15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Resort">
+              <point x="-29.166666666666686" y="-15.0" />
+              <point x="308.97955729166677" y="410.0" />
+              <point x="65.76575520833342" y="410.0" />
+              <point x="65.76575520833342" y="140.0" />
+              <point x="87.28190104166669" y="140.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.Tickets" target="traveltickets.datalayer.Tour">
+              <point x="23.66666666666667" y="-15.0" />
+              <point x="404.6536458333334" y="310.0" />
+              <point x="471.86197916666674" y="310.0" />
+              <point x="-22.125" y="15.0" />
+            </edge>
+            <edge source="SelectTour" target="traveltickets.servicelayer.LoginServ">
+              <point x="0.0" y="-15.0" />
+              <point x="384.0" y="595.0" />
+              <point x="399.47443181818176" y="595.0" />
+              <point x="-7.166666666666686" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Meal">
+              <point x="45.83333333333334" y="-15.0" />
+              <point x="383.97955729166677" y="430.0" />
+              <point x="618.1536458333335" y="430.0" />
+              <point x="618.1536458333335" y="215.0" />
+              <point x="602.1717447916667" y="215.0" />
+              <point x="20.0" y="15.0" />
+            </edge>
+            <edge source="traveltickets.utils.JSONBuilder" target="traveltickets.datalayer.Meal">
+              <point x="24.75" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="LoginWindow" target="traveltickets.servicelayer.LoginServ">
+              <point x="40.5" y="-15.0" />
+              <point x="399.6202651515152" y="855.0" />
+              <point x="461.9640151515152" y="855.0" />
+              <point x="461.9640151515152" y="575.0" />
+              <point x="442.4744318181818" y="575.0" />
+              <point x="35.83333333333337" y="15.0" />
+            </edge>
+            <edge source="MainWindow" target="InformationWindow">
+              <point x="-45.9375" y="-15.0" />
+              <point x="251.4375" y="775.0" />
+              <point x="35.25" y="775.0" />
+              <point x="-35.25" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Tickets">
+              <point x="12.5" y="-15.0" />
+              <point x="350.64622395833345" y="390.0" />
+              <point x="398.73697916666674" y="390.0" />
+              <point x="17.75" y="15.0" />
+            </edge>
+            <edge source="LoginWindow" target="MainWindow">
+              <point x="-40.5" y="-15.0" />
+              <point x="318.6202651515152" y="855.0" />
+              <point x="271.125" y="855.0" />
+              <point x="-26.25" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.Hotel" target="traveltickets.datalayer.Resort">
+              <point x="0.0" y="-15.0" />
+              <point x="407.30000000000007" y="140.0" />
+              <point x="109.615234375" y="140.0" />
+              <point x="22.33333333333333" y="15.0" />
+            </edge>
+            <edge source="traveltickets.blogic.UserLogic" target="traveltickets.datalayer.User">
+              <point x="0.0" y="-15.0" />
+              <point x="252.26575520833342" y="310.0" />
+              <point x="270.27174479166683" y="310.0" />
+              <point x="-11.399999999999977" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.Tour" target="traveltickets.datalayer.Hotel">
+              <point x="-14.75" y="-15.0" />
+              <point x="479.23697916666674" y="215.0" />
+              <point x="423.05000000000007" y="215.0" />
+              <point x="15.75" y="15.0" />
+            </edge>
+            <edge source="traveltickets.httplayer.HttpServer" target="traveltickets.httplayer.ClientSession">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Tour">
+              <point x="37.5" y="-15.0" />
+              <point x="375.64622395833345" y="420.0" />
+              <point x="498.1536458333334" y="420.0" />
+              <point x="498.1536458333334" y="310.0" />
+              <point x="501.36197916666674" y="310.0" />
+              <point x="7.375" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Hotel">
+              <point x="-4.166666666666686" y="-15.0" />
+              <point x="333.97955729166677" y="430.0" />
+              <point x="334.98697916666674" y="430.0" />
+              <point x="334.98697916666674" y="215.0" />
+              <point x="391.55000000000007" y="215.0" />
+              <point x="-15.75" y="15.0" />
+            </edge>
+            <edge source="traveltickets.utils.JSONBuilder" target="traveltickets.datalayer.Tour">
+              <point x="-24.75" y="-15.0" />
+              <point x="533.4036458333335" y="310.0" />
+              <point x="516.1119791666667" y="310.0" />
+              <point x="22.125" y="15.0" />
+            </edge>
+            <edge source="TicketsWindow" target="MainWindow">
+              <point x="28.75" y="15.0" />
+              <point x="247.25" y="745.0" />
+              <point x="290.8125" y="745.0" />
+              <point x="-6.5625" y="-15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.Tour" target="traveltickets.datalayer.Meal">
+              <point x="14.75" y="-15.0" />
+              <point x="508.73697916666674" y="215.0" />
+              <point x="562.1717447916667" y="215.0" />
+              <point x="-20.0" y="15.0" />
+            </edge>
+            <edge source="TravelTickets" target="LoginWindow">
+              <point x="25.75" y="-15.0" />
+              <point x="302.7452651515152" y="930.0" />
+              <point x="359.1202651515152" y="930.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="MainWindow" target="traveltickets.servicelayer.LoginServ">
+              <point x="45.9375" y="-15.0" />
+              <point x="343.3125" y="775.0" />
+              <point x="439.5" y="775.0" />
+              <point x="439.5" y="595.0" />
+              <point x="413.8077651515151" y="595.0" />
+              <point x="7.166666666666686" y="15.0" />
+            </edge>
+            <edge source="TourWindow" target="traveltickets.servicelayer.LoginServ">
+              <point x="-34.33333333333334" y="-15.0" />
+              <point x="313.16666666666663" y="670.0" />
+              <point x="291.3494318181818" y="670.0" />
+              <point x="291.3494318181818" y="585.0" />
+              <point x="385.14109848484844" y="585.0" />
+              <point x="-21.5" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Payment">
+              <point x="20.833333333333314" y="-15.0" />
+              <point x="358.97955729166677" y="400.0" />
+              <point x="426.98697916666674" y="400.0" />
+              <point x="426.98697916666674" y="300.0" />
+              <point x="424.23697916666674" y="300.0" />
+              <point x="20.25" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.User">
+              <point x="-20.833333333333343" y="-15.0" />
+              <point x="317.31289062500014" y="400.0" />
+              <point x="305.7657552083334" y="400.0" />
+              <point x="305.7657552083334" y="310.0" />
+              <point x="281.6717447916668" y="310.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="TravelTickets" target="traveltickets.httplayer.HttpServer">
+              <point x="-25.75" y="-15.0" />
+              <point x="251.24526515151518" y="930.0" />
+              <point x="172.875" y="930.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="MainWindow" target="TicketsWindow">
+              <point x="-19.6875" y="-15.0" />
+              <point x="277.6875" y="755.0" />
+              <point x="189.75" y="755.0" />
+              <point x="-28.75" y="15.0" />
+            </edge>
+            <edge source="ProgrammTest" target="traveltickets.datalayer.User">
+              <point x="0.0" y="-15.0" />
+              <point x="132.76575520833342" y="300.0" />
+              <point x="258.8717447916668" y="300.0" />
+              <point x="-22.80000000000001" y="15.0" />
+            </edge>
+            <edge source="SelectTour" target="MainWindow">
+              <point x="33.75" y="15.0" />
+              <point x="417.75" y="670.0" />
+              <point x="423.3077651515152" y="670.0" />
+              <point x="423.3077651515152" y="765.0" />
+              <point x="330.1875" y="765.0" />
+              <point x="32.8125" y="-15.0" />
+            </edge>
+            <edge source="TourWindow" target="SelectTour">
+              <point x="0.0" y="-15.0" />
+              <point x="347.5" y="670.0" />
+              <point x="350.25" y="670.0" />
+              <point x="-33.75" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.DBProcessor" target="traveltickets.datalayer.Country">
+              <point x="-45.83333333333337" y="-15.0" />
+              <point x="292.3128906250001" y="430.0" />
+              <point x="26.0" y="430.0" />
+              <point x="26.0" y="55.0" />
+              <point x="43.281901041666686" y="55.0" />
+              <point x="-19.25" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.Tickets" target="traveltickets.datalayer.User">
+              <point x="-23.666666666666686" y="-15.0" />
+              <point x="357.3203125000001" y="290.0" />
+              <point x="304.4717447916668" y="290.0" />
+              <point x="22.80000000000001" y="15.0" />
+            </edge>
+            <edge source="TicketsWindow" target="traveltickets.servicelayer.LoginServ">
+              <point x="0.0" y="-15.0" />
+              <point x="218.5" y="575.0" />
+              <point x="370.8077651515151" y="575.0" />
+              <point x="-35.833333333333314" y="15.0" />
+            </edge>
+            <edge source="traveltickets.datalayer.Resort" target="traveltickets.datalayer.Country">
+              <point x="0.0" y="-15.0" />
+              <point x="87.28190104166669" y="55.0" />
+              <point x="81.78190104166669" y="55.0" />
+              <point x="19.25" y="15.0" />
+            </edge>
+            <edge source="MainWindow" target="SelectTour">
+              <point x="19.6875" y="-15.0" />
+              <point x="317.0625" y="755.0" />
+              <point x="409.5" y="755.0" />
+              <point x="409.5" y="670.0" />
+              <point x="395.25" y="670.0" />
+              <point x="11.25" y="15.0" />
+            </edge>
+            <edge source="SelectTour" target="TourWindow">
+              <point x="-11.25" y="15.0" />
+              <point x="372.75" y="670.0" />
+              <point x="381.8333333333333" y="670.0" />
+              <point x="34.33333333333334" y="-15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9138888888888891" x="535.5805471124619" y="801.6474164133738" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
