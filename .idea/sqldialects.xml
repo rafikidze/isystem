@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/DBProcessor.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/dbassistant/ChangeTicketStatusAssistant.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/dbassistant/CountryLoaderAssistant.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/dbassistant/DBProcessor.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/dbassistant/HotelLoaderAssistant.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/dbassistant/MealLoaderAssistant.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/dbassistant/PaymentLoaderAssistant.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/dbassistant/ResortLoaderAssistant.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/dbassistant/SearchToursAssistant.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/TravelTickets/tickets/src/traveltickets/datalayer/dbassistant/UserLoginRegisterAssistant.java" dialect="PostgreSQL" />
   </component>
 </project>
